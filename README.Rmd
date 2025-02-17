@@ -22,4 +22,7 @@ Step 12.2
 Isaac: Used the existing lab 1 repository and copied the HTTP url.
 
 Step 12.3
+Isaac: Created a new project and cloned the lab 1 repository into it.
 
+Step 12.4
+Isaac: Adding commits and pushed changes
