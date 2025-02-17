@@ -24,3 +24,5 @@ Step 12.3 Isaac: Created a new project and cloned the lab 1 repository
 into it.
 
 Step 12.4 Isaac: Adding commits and pushed changes
+
+Step 12.5 & 12.6 Isaac: Final Commits and Pushes
