@@ -1,3 +1,5 @@
+I had a hard time implementing the R file into git and opening the github from there. After I watched a youtube tutorial I now understand it. 
+
 ---
 output: github_document
 ---
